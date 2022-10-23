@@ -143,7 +143,7 @@ Which features are important for customer churn prediction? We can use the `feat
     ...
 
 We can use shap to visualize the feature importance. 
-![img](img/202210221945/shap-bar.png)
+![img](img/shap-bar.png)
 
 The feature importance is shown below:
 The top 5 features that contribute to customer churn are `Night Charge`, `Night Calls`, `Day Mins`, `Eve Mins`, `Eve Charge`.
